@@ -1,0 +1,4 @@
+sc:
+  spring:
+    cloud:
+      config: this is the git application file from test enviroment.
