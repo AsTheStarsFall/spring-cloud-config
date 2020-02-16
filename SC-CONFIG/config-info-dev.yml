@@ -1,4 +1,4 @@
 sc:
   spring:
     cloud:
-      config: this is the git application file from dev enviroment.Edit something 2.
+      config: this is the git application file from dev enviroment.Edit something 3.
